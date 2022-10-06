@@ -1,14 +1,13 @@
 ### Hi there 👋
 
+<!-- GitHub readme stats https://github.com/anuraghazra/github-readme-stats -->
+<img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaLeah&layout=compact&theme=chartreuse-dark&title_color=ffffff&langs_count=3" />
+
 My name is Angelia. I am a software engineer with nursing experience, and I like making life easier through code.  
 <br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-AndreaLeah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/AndreaLeah/)](https://www.linkedin.com/in/AndreaLeah/) 
 
-
-
-<!-- GitHub readme stats https://github.com/anuraghazra/github-readme-stats -->
-<img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaLeah&layout=compact&theme=chartreuse-dark&title_color=ffffff&langs_count=3" />
 
 
 

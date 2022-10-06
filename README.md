@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!-- GitHub readme stats https://github.com/anuraghazra/github-readme-stats -->
-<img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaLeah&layout=compact&theme=chartreuse-dark&title_color=ffffff&langs_count=3" />
-
 My name is Angelia. I am a software engineer with nursing experience, and I like making life easier through code.  
 <br>
 
@@ -12,6 +9,9 @@ My name is Angelia. I am a software engineer with nursing experience, and I like
 
 
 ## Skills  
+
+<!-- GitHub readme stats https://github.com/anuraghazra/github-readme-stats -->
+<img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaLeah&layout=compact&theme=chartreuse-dark&title_color=ffffff&langs_count=3" />
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)

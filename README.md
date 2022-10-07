@@ -34,11 +34,13 @@ My name is Angelia. I am a software engineer with nursing experience, and I like
 
 ## Projects
 <br>
-**Etch A Sketch** 
-![Etch A Sketch GIF](https://giphy.com/embed/tMuOoiDrWzQlvRD4aS)
+**Etch A Sketch**  
 
-**Calculator**
-![Calculator GIF](https://giphy.com/embed/fwmNMhzauSpBdoFMTa)
+![Etch A Sketch GIF]("https://giphy.com/embed/tMuOoiDrWzQlvRD4aS")
+
+**Calculator**  
+
+![Calculator GIF]("https://giphy.com/embed/fwmNMhzauSpBdoFMTa")
 
 
 

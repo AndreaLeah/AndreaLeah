@@ -34,9 +34,9 @@ My name is Angelia. I am a software engineer with nursing experience, and I like
 
 ## Projects
 
-<img align="left" height=auto width=200px src="https://media.giphy.com/media/tMuOoiDrWzQlvRD4aS/giphy.gif">
+<img height=auto width=400px src="https://media.giphy.com/media/tMuOoiDrWzQlvRD4aS/giphy.gif">
 
-<img align="right" height=auto width=200px src="https://media.giphy.com/media/fwmNMhzauSpBdoFMTa/giphy.gif">
+<img height=auto width=400px src="https://media.giphy.com/media/fwmNMhzauSpBdoFMTa/giphy.gif">
 
 
 

@@ -37,6 +37,8 @@ My name is Angelia. I am a software engineer with nursing experience, and I like
 <p align="middle">  
 <img src="https://media.giphy.com/media/XSy1xJRqjbU9CL1rkC/giphy.gif" width="300" height="auto" />
 <img src="https://media.giphy.com/media/kvQMBGIAjXI2A64Yt7/giphy.gif" width="auto" height="155" />
+</p>  
+<p align="middle"> 
 <img src="https://media.giphy.com/media/tMuOoiDrWzQlvRD4aS/giphy.gif" height="auto" width="275" />
 <img src="https://media.giphy.com/media/fwmNMhzauSpBdoFMTa/giphy.gif" height="auto" width="275" /> 
 <img src="https://media.giphy.com/media/uJadEYKEAyJ2zB0m90/giphy.gif" height="auto" width="275" />

@@ -34,12 +34,20 @@ My name is Angelia. I am a software engineer with nursing experience, and I like
 
 ## Projects
 
-<p align="middle">  
-<img src="https://media.giphy.com/media/XSy1xJRqjbU9CL1rkC/giphy.gif" width="300" height="auto" />
-<img src="https://media.giphy.com/media/9QK1OONcU9YThXASJp/giphy.gif" width="auto" height="155" />
-</p>  
-<p align="middle"> 
-<img src="https://media.giphy.com/media/tMuOoiDrWzQlvRD4aS/giphy.gif" height="auto" width="275" />
-<img src="https://media.giphy.com/media/fwmNMhzauSpBdoFMTa/giphy.gif" height="auto" width="275" /> 
-<img src="https://media.giphy.com/media/uJadEYKEAyJ2zB0m90/giphy.gif" height="auto" width="275" />
+<p align="middle">
+    <a href="https://andrealeah.github.io/Portfolio">
+        <img src="https://media.giphy.com/media/XSy1xJRqjbU9CL1rkC/giphy.gif" width="300" height="auto" />
+    </a>
+    <img src="https://media.giphy.com/media/9QK1OONcU9YThXASJp/giphy.gif" width="auto" height="155" />
+</p>
+<p align="middle">
+    <a href="https://andrealeah.github.io/Etch-A-Sketch">
+        <img src="https://media.giphy.com/media/tMuOoiDrWzQlvRD4aS/giphy.gif" height="auto" width="275" />
+    </a>
+    <a href="https://andrealeah.github.io/JSCalculator">
+        <img src="https://media.giphy.com/media/fwmNMhzauSpBdoFMTa/giphy.gif" height="auto" width="275" />
+    </a>  
+    <a href="https://andrealeah.github.io/library">
+        <img src="https://media.giphy.com/media/uJadEYKEAyJ2zB0m90/giphy.gif" height="auto" width="275" />
+    </a>
 </p>

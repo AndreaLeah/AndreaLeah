@@ -3,8 +3,6 @@
 My name is Angelia. I am a software engineer with nursing experience, and I like making life easier through code.  
 <br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-AndreaLeah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/AndreaLeah/)](https://www.linkedin.com/in/AndreaLeah/) 
-
 
 
 
